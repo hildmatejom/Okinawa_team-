@@ -1,0 +1,24 @@
+{
+  "name": "okinawa_team-",
+  "version": "1.0.0",
+  "description": "tea_poli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hildmatejom/Okinawa_team-.git"
+  },
+  "dependencies": {
+    "possible_ttt": "^1.0.0",
+    "kearny-": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hildmatejom/Okinawa_team-/issues"
+  },
+  "homepage": "https://github.com/hildmatejom/Okinawa_team-#readme"
+}
